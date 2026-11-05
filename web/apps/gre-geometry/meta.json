@@ -1,0 +1,9 @@
+{
+ "name": "gre-geometry",
+ "title": "Geometry Trainer",
+ "exam": "GRE",
+ "area": "GRE Quant",
+ "desc": "Triangles, circles, polygons and solids with drawn figures, generated so you never run out.",
+ "content": [],
+ "n": 20
+}
